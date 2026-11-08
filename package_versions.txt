@@ -5,8 +5,8 @@ acl-libs                2.3.2-r1          apk
 alpine-baselayout       3.6.8-r1          apk                              
 alpine-baselayout-data  3.6.8-r1          apk                              
 alpine-keys             2.5-r0            apk                              
-alpine-release          3.21.9-r0         apk                              
-apk-tools               2.14.6-r3         apk                              
+alpine-release          3.21.10-r0        apk                              
+apk-tools               2.14.13-r0        apk                              
 autocommand             2.2.2             python                           
 backports-tarfile       1.2.0             python                           
 bash                    5.2.37-r0         apk                              
@@ -135,7 +135,7 @@ tomli                   2.4.0             python
 tomli-w                 1.2.0             python                           
 truststore              0.10.5            python                           
 tzdata                  2026.6            python                           
-tzdata                  2026e-r0          apk                              
+tzdata                  2026f-r0          apk                              
 urllib3                 2.8.0             python                           
 utmps-libs              0.1.2.3-r2        apk                              
 wheel                   0.46.3            python                           
