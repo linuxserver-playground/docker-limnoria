@@ -60,7 +60,7 @@ importlib-metadata      8.7.1             python
 jaraco-context          6.1.0             python                           
 jaraco-functools        4.4.0             python                           
 jaraco-text             4.0.0             python                           
-jq                      1.7.1-r0          apk                              
+jq                      1.8.2-r0          apk                              
 libassuan               2.5.7-r0          apk                              
 libattr                 2.5.2-r2          apk                              
 libbsd                  0.12.2-r0         apk                              
